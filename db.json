@@ -9,17 +9,24 @@
       },
       {
          "id":2,
-         "name":"Daniel Pires",
-         "nif":"12345678",
-         "contact":"5947068",
-         "morada":"Campinho"
+         "name":"Sila Paz",
+         "nif":"1241251",
+         "contact":"5645766",
+         "morada":"Espia"
       },
       {
          "id":3,
-         "name":"Daniel Pires",
-         "nif":"12345678",
-         "contact":"5947068",
-         "morada":"Campinho"
+         "name":"Liliana",
+         "nif":"12353538",
+         "contact":"5957164",
+         "morada":"Zona"
+      },
+       {
+         "id":4,
+         "name":"Joao Ba bu casa",
+         "nif":"123535338",
+         "contact":"9957164",
+         "morada":"Cha de alecrim"
       }
    ]
 }
