@@ -1,3 +1,11 @@
 {
-  clients: [ {id:1, name: "Daniel Pires", nif: "12345678", contact: "5947068", morada: "Campinho"} ]
+   "clients":[
+      {
+         "id":1,
+         "name":"Daniel Pires",
+         "nif":"12345678",
+         "contact":"5947068",
+         "morada":"Campinho"
+      }
+   ]
 }
