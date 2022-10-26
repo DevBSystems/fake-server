@@ -6,6 +6,20 @@
          "nif":"12345678",
          "contact":"5947068",
          "morada":"Campinho"
+      },
+      {
+         "id":2,
+         "name":"Daniel Pires",
+         "nif":"12345678",
+         "contact":"5947068",
+         "morada":"Campinho"
+      },
+      {
+         "id":3,
+         "name":"Daniel Pires",
+         "nif":"12345678",
+         "contact":"5947068",
+         "morada":"Campinho"
       }
    ]
 }
