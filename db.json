@@ -28,5 +28,72 @@
          "contact":"9957164",
          "morada":"Cha de alecrim"
       }
-   ]
+   ],
+   "document_types":[
+      {
+        "id": 1,
+        "name": "Fatura/Recibo",
+        "code": "FATURA/RECIBO"
+      },
+      {
+        "id": 2,
+        "name": "Guia de remessa",
+        "code": "GUIAREMESSA"
+      },
+      {
+        "id": 3,
+        "name": "Donativo",
+        "code": "DONATIVO"
+      } 
+    ],
+   "document": {"id": 1, "currentDocNumber": 26},
+   "user": {
+     "id": 1,
+     "name": "Daniel Pires",
+     "company":{
+       "name": "Padaria Vitória, LDA.",
+       "nif": "9999999",
+       "contact": "5947068",
+       "morada": "Campinho",
+       "email": "danipires9@hotmail.com",
+       "id": 1
+     }
+   },
+   "articles": [
+      {
+        "id": 1,
+        "name": "Pao tranca",
+        "price": 18,
+        "ivaIncluded": true,
+        "code": "PTR"
+      },
+      {
+        "id": 2,
+        "name": "Pao Trigo",
+        "price": 18,
+        "ivaIncluded": true,
+        "code": "PTRIGO"
+      },
+      {
+        "id": 3,
+        "name": "Biscoito",
+        "price": 120,
+        "ivaIncluded": false,
+        "code": "BISC1"
+      },
+      {
+        "id": 4,
+        "name": "Bolacha",
+        "price": 130,
+        "ivaIncluded": true,
+        "code": "BOLC"
+      },
+      {
+        "id": 5,
+        "name": "Pao Torrado",
+        "price": 100,
+        "ivaIncluded": false,
+        "code": "PTRRD"
+      }
+    ]
 }
